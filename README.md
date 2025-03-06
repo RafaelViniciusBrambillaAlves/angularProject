@@ -12,7 +12,7 @@ e é um projeto frontend desenvolvido em Angular para exibição e compartilhame
 
 1️⃣ Clonar este repositório
 ```sh
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone https://github.com/RafaelViniciusBrambillaAlves/angularProject.git
 cd <NOME_DO_PROJETO>
 ```
 2️⃣ Instalar as dependências
